@@ -75,15 +75,6 @@ for i,country in enumerate(country_list):
 	# print (" size[i] = ", size[i])
 	plt.text(x-200, y+(rnd.randrange(1,15,3)/100), country, fontsize=9)    
     
-"""
-    if(country == 'China' or country == 'India'):
-		plt.text(x, y+0.17, country, fontsize=9)
-	elif(country == 'Spain' or country == 'Iran' or country == 'Japan' or country == 'S. Korea'):
-		plt.text(x-250, y+0.08, country, fontsize=9)
-	else:
-		plt.text(x, y+0.08, country, fontsize=9)
-"""
-
 ymin, ymax = plt.ylim()
 # print (ymin, ymax)
 plt.ylim(ymin, 1.05*ymax)
