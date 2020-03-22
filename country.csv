@@ -1,0 +1,15 @@
+Country,Quality,Healthcare-spend,Freedom-score,Freedom-category,Population(in1M)
+S. Korea,G,2556,83,Free,51.8
+Singapore,G,3681,50,Partly free,5.7
+France,B,4600,90,Free,67.1
+Taiwan,G,3047,93,Free,23.6
+Canada,M,4600,98,Free,38.0
+USA,B,9536,86,Free,329.5
+India,M,63,71,Free,1360.0
+Italy,B,2700,89,Free,60.2
+Iran,B,1262,17,Not free,83.3
+China,B,426,10,Not free,1401.9
+Spain,B,2354,92,Free,47.1
+Japan,B,4405,96,Free,126.0
+Malaysia,G,386,52,Partly free,32.7
+Brazil,B,1392,75,Free,211.3
